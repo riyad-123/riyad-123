@@ -1,18 +1,18 @@
 <div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1277990601228288144)](https://discord.com/users/1277990601228288144)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1277990601228288144?showDisplayName=true&idleMessage=.gg%2FDeltaDynamics)](https://discord.com/users/1277990601228288144)
 
-# Hey, I'm Kumar Manas
+# Hey, I'm RIYAD
 
 ### `Automation Enthusiast • Backend Developer`
 
 I build automation tools, Discord bots, and backend systems that are fast, scalable, and efficient.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-me.kryptonbot.in-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white)](https://me.kryptonbot.in/)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/g2C4jQq4en)
-[![GitHub](https://img.shields.io/badge/GitHub-ItzYourHacker-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItzYourHacker)
+[![Portfolio](https://img.shields.io/badge)](https://itz-riyad.ddns.net)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/deltadynamics)
+[![GitHub](https://img.shields.io/badge/GitHub-ItzYourHacker-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riyad-123)
 
-![Visitors](https://komarev.com/ghpvc/?username=Itzyourhacker&color=blueviolet&style=flat-square&label=Profile+Views)
+![Visitors](https://komarev.com/ghpvc/?username=riyad-123&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -24,16 +24,17 @@ I build automation tools, Discord bots, and backend systems that are fast, scala
 <tr>
 <td width="50%">
 
-### KryptonBot
+### Asteroid
 An advanced Discord security bot trusted by **thousands of servers** worldwide.  
-Real-time protection, **400+ commands**, and zero compromises.
+Real-time protection, **1800+ commands**, and zero compromises.
 
-- Anti-Nuke Protection  
+- Anti-Nuke Protection
+- Smart Auto Antinuke System  
 - Smart Moderation & Spam Detection  
 - High-Quality Music Playback  
 - Lightning Fast Responses  
 
-[![Add to Server](https://img.shields.io/badge/Add_to_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=906085578909548554&permissions=8&response_type=code&redirect_uri=https%3A%2F%2Fdiscord.gg%2Fkryptonbot&integration_type=0&scope=bot)
+[![Add to Server](https://discord.com/oauth2/authorize?client_id=1393833894502993981&permissions=8&integration_type=0&scope=bot+applications.commands)
 [![Website](https://img.shields.io/badge/Website-kryptonbot.in-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.kryptonbot.in/)
 
 </td>
